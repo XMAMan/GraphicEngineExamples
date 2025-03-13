@@ -1,5 +1,5 @@
 # How to use the GraphicEngine
-============================
+------------------------------
 This project shows how to use the GraphicEngine. There is support for WinForm and WPF. Outputmethods are 2D, 3D and Raytracing. 
 
 ## Usage of the Raytracer
@@ -25,13 +25,13 @@ Add this to your xaml-File to place the GraphicPanel
 
 For you code-behind you need this
 ```csharp
- var panel = new GraphicPanel3D() { Width = 100, Height = 100, Mode = Mode3D.OpenGL_Version_3_0 }; //Unter .NET Core kann man leider kein DirectX nutzen
- this.graphicControlBorder.Child = new GraphicControl(panel); //Sowohl die View kennt das GraphicPanel2D um es darstellen zu können
+ var panel = new GraphicPanel3D() { Width = 100, Height = 100, Mode = Mode3D.OpenGL_Version_3_0 }; 
+ this.graphicControlBorder.Child = new GraphicControl(panel);
 
  this.DataContext = new ViewModel(panel);
 ```
 
-Now you can use the GraphicPanel3D-Object in you ViewModel to send the drawing-commands to the view. In our case we want to use the raytracer to show a blender-file. 
+Now you can use the GraphicPanel3D-Object in your ViewModel to send the drawing-commands to the view. In our case we want to use the raytracer to show a blender-file. 
 To do this we need to add at first the obj-file:
 
 ```csharp
@@ -169,9 +169,8 @@ Create a new WinForm-application in VisualStudio and add the GraphicEngine-NuGet
 
 You can now again add all 3D-objects one time at start (or durring runtime if you would add/remove an object).
 
- panel.RemoveAllObjekts();
-
 ```csharp
+ panel.RemoveAllObjekts();
  //LegoMan from Wavefront file
  this.legoIds = panel.AddWaveFrontFileAndSplit(DataDirectory + "LegoMan.obj", false, new ObjectPropertys()
  {
@@ -222,7 +221,7 @@ private void Draw()
 }
 ```
 
-This will produce a this image with a moving circle:
+This will produce this image with a moving circle:
 ![Rasterizer2D](./Images/Rasterizer2D.JPG)
 
 See the WinForm2D/Wpf2D-Project for details.
