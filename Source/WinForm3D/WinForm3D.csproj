@@ -34,100 +34,100 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="BitmapHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\BitmapHelper.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\BitmapHelper.dll</HintPath>
     </Reference>
     <Reference Include="FullPathGenerator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\FullPathGenerator.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\FullPathGenerator.dll</HintPath>
     </Reference>
     <Reference Include="GraphicGlobal, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicGlobal.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicGlobal.dll</HintPath>
     </Reference>
     <Reference Include="GraphicMinimal, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicMinimal.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicMinimal.dll</HintPath>
     </Reference>
     <Reference Include="GraphicPanels, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicPanels.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicPanels.dll</HintPath>
     </Reference>
     <Reference Include="GraphicPanelWpf, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicPanelWpf.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicPanelWpf.dll</HintPath>
     </Reference>
     <Reference Include="GraphicPipelineCPU, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicPipelineCPU.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicPipelineCPU.dll</HintPath>
     </Reference>
     <Reference Include="GraphicPipelineDirect3D11, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicPipelineDirect3D11.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicPipelineDirect3D11.dll</HintPath>
     </Reference>
     <Reference Include="GraphicPipelineOpenGLv1_0, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicPipelineOpenGLv1_0.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicPipelineOpenGLv1_0.dll</HintPath>
     </Reference>
     <Reference Include="GraphicPipelineOpenGLv3_0, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\GraphicPipelineOpenGLv3_0.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\GraphicPipelineOpenGLv3_0.dll</HintPath>
     </Reference>
     <Reference Include="ImageCreator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\ImageCreator.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\ImageCreator.dll</HintPath>
     </Reference>
     <Reference Include="IntersectionTests, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\IntersectionTests.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\IntersectionTests.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="ObjectDivider, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\ObjectDivider.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\ObjectDivider.dll</HintPath>
     </Reference>
     <Reference Include="OpenTK, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\OpenTK.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\OpenTK.dll</HintPath>
     </Reference>
     <Reference Include="OpenTK.GLControl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\OpenTK.GLControl.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\OpenTK.GLControl.dll</HintPath>
     </Reference>
     <Reference Include="ParticipatingMedia, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\ParticipatingMedia.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\ParticipatingMedia.dll</HintPath>
     </Reference>
     <Reference Include="Photonusmap, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\Photonusmap.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\Photonusmap.dll</HintPath>
     </Reference>
     <Reference Include="PointSearch, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\PointSearch.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\PointSearch.dll</HintPath>
     </Reference>
     <Reference Include="Radiosity, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\Radiosity.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\Radiosity.dll</HintPath>
     </Reference>
     <Reference Include="Rasterizer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\Rasterizer.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\Rasterizer.dll</HintPath>
     </Reference>
     <Reference Include="RayCamera, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RayCamera.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RayCamera.dll</HintPath>
     </Reference>
     <Reference Include="RayObjects, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RayObjects.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RayObjects.dll</HintPath>
     </Reference>
     <Reference Include="RayTracerGlobal, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RayTracerGlobal.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RayTracerGlobal.dll</HintPath>
     </Reference>
     <Reference Include="RaytracerMain, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RaytracerMain.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RaytracerMain.dll</HintPath>
     </Reference>
     <Reference Include="RaytracingBrdf, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RaytracingBrdf.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RaytracingBrdf.dll</HintPath>
     </Reference>
     <Reference Include="RaytracingColorEstimator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RaytracingColorEstimator.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RaytracingColorEstimator.dll</HintPath>
     </Reference>
     <Reference Include="RaytracingLightSource, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RaytracingLightSource.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RaytracingLightSource.dll</HintPath>
     </Reference>
     <Reference Include="RaytracingMethods, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RaytracingMethods.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RaytracingMethods.dll</HintPath>
     </Reference>
     <Reference Include="RaytracingRandom, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\RaytracingRandom.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\RaytracingRandom.dll</HintPath>
     </Reference>
     <Reference Include="SlimDX, Version=4.0.13.43, Culture=neutral, PublicKeyToken=b1b0c32fd1ffe4f9, processorArchitecture=x86">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\SlimDX.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\SlimDX.dll</HintPath>
     </Reference>
     <Reference Include="SubpathGenerator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\SubpathGenerator.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\SubpathGenerator.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -141,16 +141,16 @@
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
     <Reference Include="Tao.OpenGl, Version=2.1.0.4, Culture=neutral, PublicKeyToken=1ca010269a4501ef, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\Tao.OpenGl.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\Tao.OpenGl.dll</HintPath>
     </Reference>
     <Reference Include="Tao.Platform.Windows, Version=1.0.0.4, Culture=neutral, PublicKeyToken=701104b2da67a104, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\Tao.Platform.Windows.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\Tao.Platform.Windows.dll</HintPath>
     </Reference>
     <Reference Include="TextureHelper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\TextureHelper.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\TextureHelper.dll</HintPath>
     </Reference>
     <Reference Include="TriangleObjectGeneration, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\XMAMan.GraphicEngine.1.0.0\lib\TriangleObjectGeneration.dll</HintPath>
+      <HintPath>..\packages\XMAMan.GraphicEngine.0.0.1\lib\TriangleObjectGeneration.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
