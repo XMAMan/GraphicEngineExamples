@@ -2,6 +2,8 @@
 ------------------------------
 This project shows how to use the GraphicEngine. There is support for WinForm and WPF. Outputmethods are 2D, 3D and Raytracing. 
 
+Note: DirectX mode only runs under WinForms, and DirectX must be installed first. To do so, copy the files from here: https://github.com/XMAMan/GraphicEngineExamples/blob/master/DirectXSetup.zip to a local directory and use DXSETUP.exe
+
 ## Usage of the Raytracer
 -------------------------
 ### Step 1: Create your scene with blender
