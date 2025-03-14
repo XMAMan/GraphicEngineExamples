@@ -18,7 +18,7 @@ namespace WinForm2D
         {
             InitializeComponent();
 
-            this.panel.Mode = GraphicPanels.Mode2D.Direct3D_11;
+            this.panel.Mode = GraphicPanels.Mode2D.OpenGL_Version_3_0;
 
             this.panel.MouseClick += new MouseEventHandler(GraphicPanel2D_MouseClick);
 

@@ -15,7 +15,7 @@ namespace WinForm3D
         {
             InitializeComponent();
 
-            this.panel.Mode = GraphicPanels.Mode3D.Direct3D_11;
+            this.panel.Mode = GraphicPanels.Mode3D.OpenGL_Version_3_0;
 
             Add3DObjects();
 
