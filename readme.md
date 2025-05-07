@@ -5,6 +5,7 @@ This project shows how to use the NuGets XMAMan.GraphicEngine and XMAMan.Graphic
 If you want to use 2D and 3D-output, then you should use XMAMan.GraphicEngine
 If you only want to use 2D-output, then XMAMan.GraphicEngine2D is better because its smaler.
 
+Note: DirectX mode only runs under WinForms, and DirectX must be installed first. To do so, copy the files from here: https://github.com/XMAMan/GraphicEngineExamples/blob/master/DirectXSetup.zip to a local directory and use DXSETUP.exe
 
 ## Examples for the XMAMan.GraphicEngine-NuGet
 
